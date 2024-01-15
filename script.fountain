@@ -7,15 +7,10 @@ The slide shows the name of the talk and information about Xe
 XE
 Hi, I'm Xe Iaso and before we get started, I want to start by talking about what this talk is and is not. This talk isn't going to be the kind of high-signal AI research that I'd really love to be giving right now. This talk is about actions and consequences.
 
-The slide shows a SammyClassicSonicFan gif.
-
-XE
-In the words of the philosopher SammyClassicSonicFan, "when will you learn that your actions have consequences?"
-
 The slide shows a picture of a Canadian $20
 
 XE
-What impacts will our ha-ha silly projects actually have on the real world where people have to take bills like this and exchange them for food and shelter?
+What impacts will our ha-ha silly projects actually have on the real world where people have to take objects like this and exchange them for food and shelter?
 
 The slide shows a blanket with water emoji on it.
 
@@ -27,12 +22,7 @@ This talk is really about actions and consequences.
 A disclaimer about not speaking for my employer.
 
 XE
-All the best things in life come with disclaimers. These words are my own. I am not speaking on behalf of my employer, past employers, or future employers should you be watching this on YouTube. I am speaking for myself and not other people.
-
-Spoiler warning.
-
-XE
-By the way, there's massive spoilers for the Half-Life series in this talk, please be aware if you haven't played these games that are probably older than the majority of this audience.
+All the best things in life come with disclaimers. These words are my own. I am not speaking on behalf of my employer, past employers, or future employers should you be watching this in the future on YouTube. I am speaking for myself and not other people.
 
 The slide shows "About Xe" in rather large text.
 
@@ -44,34 +34,27 @@ The slide shows a picture of my blog.
 XE
 As Hai mentioned, I'm a somewhat avid blogger. I write for the love of writing and have potentially four megabytes of text available for anyone to learn from on my blog about a number of topics. I cover programming, spirituality, semiotics, and more. My writing is well loved by the developer community and my blog is the reason I get hired now.
 (Look right at some random person in the audience)
-If you're starting out in the industry, make a blog, host it yourself, makes you stand out a lot. Highly reccommend. You'll get decent enough at writing by about the 13th full length post on average.
+If you're starting out in the industry, make a blog, host it yourself, makes you stand out a lot. Highly reccommend. You'll get decent enough at writing by about the 13th full length post on average. This is genuine advice no matter what I say in this talk.
 
 The slide shows the ChatGPT logo.
 
 XE
-As a reward for making my blog a polished and high quality thing, it's part of the ChatGPT training dataset. Somewhere in some Azure datacenter, my blog's data is sitting there tokenized and waiting to be massaged into floating point weights by unfeeling automatons that will be used to make unimaginable amounts of money that I will never see a penny of.
-
-The ChatGPT logo gets red and menacing.
-
-XE
-This is something that may end up haunting me for a very long time. I've thought about making a return to college to finally get a degree in linguistics, but the simple fact of the matter is that my blog is in the training set for ChatGPT, so all the poorly coded plagiarism detectors that you *know* teachers and education departments will use will permanently identify my writing style as having been written by AI. This is the punishment I get for pouring my heart, soul, and love into my craft as a blogger: I get turned into ChatGPT.
+As a reward for making my blog a polished and high quality thing, it's part of the ChatGPT training dataset. Somewhere in some Azure datacenter, my blog's data is sitting there tokenized and waiting to be massaged into floating point weights by unfeeling automatons that will be used to make unimaginable amounts of money that I will never see a penny of. This is the punishment I get for pouring my heart, soul, and love into my craft as a blogger: I get turned into ChatGPT.
 
 The ChatGPT logo gets uncanny.
 
 XE
-Now, the question of if this practice of taking people's random internet content and just doing whatever they want with it is without legal precedent. There's no good standard for how all this is supposed to work. This is technology that is so new it's making Bitcoin look like it's dinosaur technology from back when computers couldn't count above two-hundred fifty-six without major hacking.
+Now, the question of if this practice of taking people's random internet content and just doing whatever they want with it is without legal precedent. There's no good standard for how all this is supposed to work. This is technology that is so new it's making Bitcoin look like it's dinosaur technology from back when computers couldn't count above two-hundred fifty-six without major workarounds.
 
 Things melt further.
 
 XE
-And mind you, I'm just one blogger. I'm just one person. I don't have *that big* of a platform. For the genre of technology bloggers, sure I have a big platform, but I'm not generally "front page news" big. I'm just a person who likes talking about how I use computers and how I think they should work. I'm just a shitposter that gazed into the void too much and now the void gazes back at me.
+And mind you, I'm just one blogger. I'm just one person. I don't have *that big* of a platform. For the genre of technology bloggers, sure I have a big platform, but I'm not generally "front page news on the New York Times" big. I'm just a person who likes talking about how I use computers and how I think they should work. I'm just a shitposter that gazed into the void too much and now the void gazes back at me.
 
 More melting
 
 XE
 How do we understand this all? How do we figure out how to peel back the layers of terminology bullshit that prevent us from having a clear understanding of what people are even *saying*?
-(Pause)
-Let's start by taking the problems to a very abstract level and break things down from there.
 
 The slide shows "You fricking fricks, when will you learn that your ACTIONS have CONSEQUENCES?" in large text, attributed to SammyClassicSonicFan.
 
@@ -115,17 +98,137 @@ COVID-19
 XE
 Just like that unmentionable-on-YouTube viral pandemic that happened a few years ago that our society will never really recover from! People were warning us for years that we'd be totally screwed by a pandemic but noooo public health had to get cut!
 
-The slide goes blank.
+The impact trifecta
 
 XE
-Before we get into all of that sad stuff though, I want to reiterate one of my core points: As a tool, AI has a huge potential to be used to make humanity better. I fucked up my hands recently and I use two to three AI models to help me write things on days that I have wrist and hand pain. I use copilot to help me write boilerplate code that I don't want to have to write again and again. I use AI in ways that augment my abilities, not in ways that could serve to replace me with an unfeeling automaton.
+When anyone makes any action, there are consequences or impacts on themselves, their friends, and the world at large. I haven't found a good way to model this, but I think that triangles look cool so I made this "impact triange" to show what this all would look like.
 
-The slide shows a ChatGPT session to generate code.
-
-XE
-Code generation is actually one of the best ways to use AI tools right now as a developer. Any good code is really the specification turned into something the computer can understand, so being able to write out the specification in plain human language and then having the machine fill in the gaps is a huge timesaver. Not to mention, code like this is super easy to statically validate. It either does what you want or it doesn't. This helps people avoid the "terror of the empty canvas" in ways that are difficult to state. As someone that wants to help create more senior programmers, this is an amazing tool to give to people.
-
-Shrugging anime girl
+The CS impact trifecta.
 
 XE
-Of course, I don't know what the downstream consequences of this will be. Giving people "cheat codes" to get to their results faster without knowing the fundamentals at play is probably not the best idea in the world in order to maintain a healthy skill balance in the workforce, but you gotta start somewhere.
+Here's what I think the impact triangle for our industry looks like.
+
+Highlight the access side.
+
+XE
+Absolutely anyone can become good at coding and then start working at or creating a company to solve a problem they have in their lives. This has allowed most of us in this room to have a start in the industry and it's allowed for uncountable amounts of upwards mobility as people use technology to make lives easier.
+
+Highlight the certification side
+
+XE
+There's no professional certification required to practice our profession. We don't need to be licensed to be computer scientists, and basically anyone can have an impact on the world scale if they get lucky.
+
+Highlight the limits side
+
+XE
+Our industry measures results in small terms. In aggregate, we only care about how the things we do today will make the capitalism line go up for the next quarter. There's no ethical or professional guidelines that prevent people from making "bad" things, the sheer force of the market is intended to weed all that out.
+
+Show the triangle as a whole.
+
+XE
+For most other professions in the job market, this trifecta of factors makes our industry look reckless. In order to be an accountant, you have to be licensed to be an accountant and you have ethical guidelines that if you violate, you lose your license to be an accountant. To be a surgeon, you need to have an educational background in surgery and a medical license to practice it. No such barriers to entry exist with our profession.
+
+Facebook logo.
+
+XE
+Facebook has one billion users. Billion with a "b". Nine significant figures. The goal of Facebook when it was created was to make us all a little bit closer. The thought was that by reducing the social distance between us all, we could make everyone better off.
+
+A slide full of the number 9
+
+XE
+An unimaginable amount of photos, video, and text posts are made to Facebook every day. Some fraction of those violate Facebook's content guidelines at the least and are fully illegal at most. Many trivial cases can be handled by their machine learning algorithms, but there's always the exceptional bit that need to be judged by a human.
+
+Facebook content moderators.
+
+XE
+Content moderation is impossible at small scales. The level of impossibility grows as the scale grows. I'm almost certain that it's actually impossible to moderate Facebook posts with humans at this point, but they try regardless and like any venture-backed company they farmed it out for someone else to deal with the consequences. Those contractors subcontract that out so that they don't have to deal with the consequences of that. And finally, it all ends up in the desks of people that are tortured by the things that they are forced to witness because if they don't stop witnessing it, they can't make rent.
+
+The Zucc
+
+XE
+For the action of creating Facebook, he gets to make a bunker on hawaii, raising his own cattle for slaughter and making beer by himself. He does not have to see the images that the content moderators are forced to see. He just lays back and watches his bank account number go up.
+
+Go back to the triangle.
+
+XE
+Because the only limit is what makes the line go up, the human cost is totally discounted from the equation. The people doing the actions don't see the consequences. The CEO of Uber never lost his job as a taxi driver because Uber drives did his job for cheaper. The CEO of Google never has suffered the algorithm deciding he's a criminal and locking him out of his digital life. The people doing the actions are not affected by any unforeseen consequences of those actions.
+
+Automuse
+
+XE
+The last time I spoke here, I spoke about a work of satire: Automuse. Automuse is a tool that uses large language models to recreate the normal novel writing process using stochastic randomness and tools like Plotto. I just wanted to see what could happen.
+
+You're winner
+
+XE
+To my horror, I won the hackathon. With a *shitpost* about the publishing industry that was inspired by my fear of what could happen if things like this were more widespread.
+
+Blank
+
+XE
+When I gave my talk at the hackathon, there was a part of it that I left out. I'm not sure why I left it out, it just "felt right" at the time. That part I left out was inspired by this quote from SammyClassicSonicFan:
+
+SammyClassicSonicFan quote
+
+XE
+When will you **learn**? When will you learn that your **actions** have **consequences**?
+(Pause)
+I made Automuse precisely because I understand how impractical it is. The output quality of Automuse will simply never compare to the output quality of skilled human writers making original, high quality writing.
+(Pause)
+Sure, yes, there's a rather large market for low-quality pleasure reading that something like Automuse could fill. There's a rather large number of people that enjoy rather formulaic things about good winning out over evil, or romance novels that make people feel young again, or whatever. Not to mention, doing something like that would leave me an excellent moat because most AI companies try to focus on high quality output, meaning that lower quality stuff is laughed off as a waste of time.
+
+Crutch
+
+XE
+When I made Automuse, I intentionally crippled it so that it would be difficult for anyone to use. Even me. I made it so that it requires a private dependency that I have access to but nobody else would. I made the tool in such a way that it requires massive human intervention in order to work. Whenever people ask me how to set it up for themselves, I quote absurd figures to them and they're always surprised and angry that a person making open source software would want to be paid for their time.
+
+Friends
+
+XE
+I don't want automuse to displace the effort of my friends.
+(Long pause)
+
+Amazon Kindle
+
+XE
+Above all, the reason I haven't worked to productize it or make it available in mass consumption form is that I don't want my product to make the problem of book spam worse. The AI-generated book spam problem is bad enough that Amazon has had to institute uploading limits to the Kindle store for the first time ever. I don't think I could live with myself if something I made and released made the problem worse.
+
+Spellblade cover
+
+XE
+It's bad enough that whenever I get around to finishing my novel Spellblade, I'm almost certainly going to release it to my patrons and/or for very cheap on itch.io. I don't want something I make to be drowned out by the mountains of cheaply made books uploaded to Amazon on an hourly basis.
+
+The G-Man.
+
+XE
+I'm sure that nearly all of those consequences would not hurt me individually. I have a fairly healthy fanbase and make enough money on Patreon to make most of my side hobbies pay for themselves. I'm remarkably lucky and privileged to have the positions that I do. I'm just afraid of the unforeseen consequences of releasing something like Automuse into the world. I don't want to have things that I make force people out of their line of work. Changing careers is impossible for someone who lives paycheck to paycheck.
+
+YouTube logo
+
+XE
+Speaking of paycheck to paycheck, I don't know if y'all know how bad it is getting there, but it's getting really bad thanks to the fallout of their recommendation algorithm.
+
+YouTube front page
+
+XE
+When you open the front page of YouTube, you see a page like this. This page is full of videos that their recommendation algorithm suggests you may be interested in. As a user, this is a powerful curation tool that allows you to engage with the stuff that you would be interested in without having to dig through millions of hours of junk.
+
+Nightmare
+
+XE
+As a creator, this is a nightmare that is conditionally reinforcing them to keep creating and defecating out miles of drivel in order to stay relevant. Why do you think SSSniperWolf and other reaction content is so prevalent? The algorithm eats it up and when the algorithm eats something up, you get to make rent. Of course reaction content is going to be everywhere.
+
+G-Man
+
+XE
+One of the biggest unforeseen consequences of recommendation algorithms are observable effects like them directly enabling violence and radicalization.
+
+Engagement
+
+XE
+These algorithms optimize for engagement. Engagement is when a user interacts with a thing. It could be watching the video all the way through. It could be watching the video at all. It could be dwelling your scrollbar in the same area as the video and hovering over it. It could be any action a user takes with a thing that could count as the user "engaging" with that thing.
+
+Enragement
+
+XE
+You know what really gets people to engage with something? Pissing them off. Enragement is engagement. "Cringe compilations" lead to any number of intermediate steps and then radicalization follows. Ever noticed a particular political or existential bias 
