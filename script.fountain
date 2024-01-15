@@ -10,7 +10,7 @@ Hi, I'm Xe Iaso and before we get started, I want to start by talking about what
 The slide shows a picture of a Canadian $20
 
 XE
-What impacts will our ha-ha silly projects actually have on the real world where people have to take objects like this and exchange them for food and shelter?
+What impacts will our projects actually have on the real world where people have to take objects like this and exchange them for food and shelter?
 
 The slide shows a blanket with water emoji on it.
 
@@ -33,7 +33,10 @@ The slide shows a picture of my blog.
 
 XE
 As Hai mentioned, I'm a somewhat avid blogger. I write for the love of writing and have potentially four megabytes of text available for anyone to learn from on my blog about a number of topics. I cover programming, spirituality, semiotics, and more. My writing is well loved by the developer community and my blog is the reason I get hired now.
-(Look right at some random person in the audience)
+
+Make a blog
+
+XE
 If you're starting out in the industry, make a blog, host it yourself, makes you stand out a lot. Highly reccommend. You'll get decent enough at writing by about the 13th full length post on average. This is genuine advice no matter what I say in this talk.
 
 The slide shows the ChatGPT logo.
@@ -44,7 +47,7 @@ As a reward for making my blog a polished and high quality thing, it's part of t
 The ChatGPT logo gets uncanny.
 
 XE
-Now, the question of if this practice of taking people's random internet content and just doing whatever they want with it is without legal precedent. There's no good standard for how all this is supposed to work. This is technology that is so new it's making Bitcoin look like it's dinosaur technology from back when computers couldn't count above two-hundred fifty-six without major workarounds.
+In our system of law, things are generally lawful unless there is a law or court precedent saying that it's not. We're not sure if AI training is fair use of copyrighted works or not. The courts and lawmakers need to battle this out, if they'll be allowed to. This is technology that is so new it's making Bitcoin look like it's dinosaur technology from back when computers couldn't count above two-hundred fifty-six without major workarounds.
 
 Things melt further.
 
@@ -54,9 +57,9 @@ And mind you, I'm just one blogger. I'm just one person. I don't have *that big*
 More melting
 
 XE
-How do we understand this all? How do we figure out how to peel back the layers of terminology bullshit that prevent us from having a clear understanding of what people are even *saying*?
+How do we understand this all? How do we figure out how to peel back the layers of terminology bullshit that keep us from having a clear understanding of what people are even *saying*?
 
-The slide shows "You fricking fricks, when will you learn that your ACTIONS have CONSEQUENCES?" in large text, attributed to SammyClassicSonicFan.
+Actions and Consequences.
 
 XE
 If we take all of the drama and interplay involved in our society, we can boil it down to two basic things: actions and consequences. Actions are the things that we do, consequences are the things that result.
@@ -69,7 +72,7 @@ You cut a tree down to make a fire. The animals that used that tree for shelter 
 The slide shows the word "actions" sheltered in a house away from the word "consequences".
 
 XE
-Most of the time, our actions serve to make us better off, and shield us from the consequences those actions. We see this happen with the tree. We see this happen with ChatGPT. We will see this happen time immemorial as the rhythms of society repeat for every new generation.
+Most of the time, our actions serve to make us better off, and shield us from the consequences of those actions. We see this happen with the tree. We see this happen with ChatGPT. We will see this happen time immemorial as the rhythms of society repeat for every new generation.
 
 The slide shows the letters "AI" in very large text.
 
@@ -86,17 +89,21 @@ I'm mostly worried about how the existing powers that be are going to take this 
 The G-Man
 
 XE
-One of the things I want to get across here is that I'm not trying to go all "capitalism bad, bread lines for all" or something trite like that. I more want to inspire you to see what the consequences of your actions *could be*. This is made more complicated by the concept of *unforseen consequences*, or consequences that you couldn't possibly have seen coming when you were working on things.
+One of the things I want to get across here is that I'm not trying to go all "capitalism bad, bread lines for all" or something trite like that. There's plenty of other places to see those arguments. I more want to inspire you to see what the consequences of your actions *could be*. This is made more complicated by the concept of *unforeseen consequences*, or downstream consequences that you couldn't possibly have seen coming when you were working on things.
 
 A black swan.
 
 XE
-For a long time, people thought that swans were only pure white. Swans were used as literary symbols of pureness. People had only ever seen white swans, so the idiom of a "black swan" came into common usage as an impossible event. Then people found black swans in nature. The term "black swan event" now describes an event that is obvious in hindsight, but something that we couldn't have possibly foreseen happening at the time.
+For a long time, people thought that swans were only white. Swans were used as literary symbols of pureness. People had only ever seen white swans, so the idiom of a "black swan" came into common usage as an impossible event. Then people found black swans in nature.
+(Pause)
+The term "black swan event" now describes an event that is obvious in hindsight, but something that we couldn't have possibly foreseen happening at the time.
 
 COVID-19
 
 XE
+(Slightly sarcastic tone)
 Just like that unmentionable-on-YouTube viral pandemic that happened a few years ago that our society will never really recover from! People were warning us for years that we'd be totally screwed by a pandemic but noooo public health had to get cut!
+(Pause, reset tone)
 
 The impact trifecta
 
@@ -111,52 +118,52 @@ Here's what I think the impact triangle for our industry looks like.
 Highlight the access side.
 
 XE
-Absolutely anyone can become good at coding and then start working at or creating a company to solve a problem they have in their lives. This has allowed most of us in this room to have a start in the industry and it's allowed for uncountable amounts of upwards mobility as people use technology to make lives easier.
+Absolutely anyone can become good at coding and then start working at or creating a company to solve a problem they have in their lives. This has allowed most of us in this room to have a start in the industry and it's allowed for uncountable amounts of upwards mobility as people use technology to make lives easier. Personally, I'm a college dropout. Without this industry accepting anyone, I'd be totally screwed. I wouldn't be able to dream of immigrating to Canada and probably would have never met my husband in the first place.
 
 Highlight the certification side
 
 XE
-There's no professional certification required to practice our profession. We don't need to be licensed to be computer scientists, and basically anyone can have an impact on the world scale if they get lucky.
+There's no professional certification required to work in computers. We don't need to be licensed to be software developers or site reliability experts, and basically anyone can have an impact on the world scale if they get lucky.
 
 Highlight the limits side
 
 XE
-Our industry measures results in small terms. In aggregate, we only care about how the things we do today will make the capitalism line go up for the next quarter. There's no ethical or professional guidelines that prevent people from making "bad" things, the sheer force of the market is intended to weed all that out.
+Our industry measures results in small units of time. In aggregate, we only care about how the things we do today will make the capitalism line go up for the next quarter. There's no ethical or professional guidelines that prevent people from making "bad" things, or even defining "good" and "bad" in the first place. The sheer force of the market is intended to weed all that out. Realistically, there are *some* limits in laws and regulations, but as long as you comply and feign ignorance at the more objectionable parts, you'll be fine. The real limits are what people can sleep with at night.
 
 Show the triangle as a whole.
 
 XE
-For most other professions in the job market, this trifecta of factors makes our industry look reckless. In order to be an accountant, you have to be licensed to be an accountant and you have ethical guidelines that if you violate, you lose your license to be an accountant. To be a surgeon, you need to have an educational background in surgery and a medical license to practice it. No such barriers to entry exist with our profession.
+For most other professions in the job market, this trifecta of factors makes our industry look incredibly reckless. In order to be an accountant, you have to be licensed to be an accountant and you have ethical guidelines that if you violate, you lose your license to be an accountant. To be a surgeon, you need to have an educational background in surgery and a medical license to practice it. No such barriers to entry exist with our profession.
 
 Facebook logo.
 
 XE
-Facebook has one billion users. Billion with a "b". Nine significant figures. The goal of Facebook when it was created was to make us all a little bit closer. The thought was that by reducing the social distance between us all, we could make everyone better off.
+Facebook has one billion users. Billion with a "b". Nine significant figures. Facebook was created to make us all a little bit closer. The thought was that by reducing the social distance between us all, we could make everyone better off and happier.
 
 A slide full of the number 9
 
 XE
-An unimaginable amount of photos, video, and text posts are made to Facebook every day. Some fraction of those violate Facebook's content guidelines at the least and are fully illegal at most. Many trivial cases can be handled by their machine learning algorithms, but there's always the exceptional bit that need to be judged by a human.
+An unimaginable amount of photos, video, and text posts are made to Facebook every day. Some fraction of those violate Facebook's content guidelines at the least and are fully illegal at most. Many trivial cases can be handled by their machine learning algorithms, but there's always the bit that need to be judged by a human.
 
 Facebook content moderators.
 
 XE
-Content moderation is impossible at small scales. The level of impossibility grows as the scale grows. I'm almost certain that it's actually impossible to moderate Facebook posts with humans at this point, but they try regardless and like any venture-backed company they farmed it out for someone else to deal with the consequences. Those contractors subcontract that out so that they don't have to deal with the consequences of that. And finally, it all ends up in the desks of people that are tortured by the things that they are forced to witness because if they don't stop witnessing it, they can't make rent.
+Content moderation is impossible at small scales. The level of impossibility grows as the scale grows. I'm almost certain that it's actually impossible to moderate Facebook posts with humans at this point, but at least they only have to have humans deal with a very small percentage of cases. Like any  good venture-backed company they farmed out the actions so that someone else has to deal with the consequences. Those contractors subcontract that out so that they don't have to deal with the fallout of that. And finally, it all ends up in the desks of people that are tortured by the things that they are forced to witness because if they don't stop witnessing it, they can't make rent.
 
 The Zucc
 
 XE
-For the action of creating Facebook, he gets to make a bunker on hawaii, raising his own cattle for slaughter and making beer by himself. He does not have to see the images that the content moderators are forced to see. He just lays back and watches his bank account number go up.
+For the action of creating Facebook, Mark Zuckerberg gets to make a bunker on Hawaii, raise his own cattle for slaughter and make beer by himself. He does not have to see the images that the content moderators are forced to see. He just lays back and watches his bank account number go up. Maybe he does CEO things if he wants to.
 
 Go back to the triangle.
 
 XE
-Because the only limit is what makes the line go up, the human cost is totally discounted from the equation. The people doing the actions don't see the consequences. The CEO of Uber never lost his job as a taxi driver because Uber drives did his job for cheaper. The CEO of Google never has suffered the algorithm deciding he's a criminal and locking him out of his digital life. The people doing the actions are not affected by any unforeseen consequences of those actions.
+The human cost is totally discounted from the equation because the only limit is what makes the line go up. The people doing the actions don't see the consequences. The CEO of Uber never lost his job as a taxi driver because Uber drivers did his job for cheaper. The CEO of Google never has suffered the algorithm deciding he's a criminal and locking him out of his digital life for good. The people doing the actions are not affected by any unforeseen consequences of those actions.
 
 Automuse
 
 XE
-The last time I spoke here, I spoke about a work of satire: Automuse. Automuse is a tool that uses large language models to recreate the normal novel writing process using stochastic randomness and tools like Plotto. I just wanted to see what could happen.
+The last time I spoke here, I spoke about a work of satire: Automuse. Automuse is a tool that uses large language models to recreate the normal novel writing process using stochastic randomness and tools like Plotto. I just wanted to see what could happen if I threw ink to canvas.
 
 You're winner
 
@@ -166,52 +173,46 @@ To my horror, I won the hackathon. With a *shitpost* about the publishing indust
 Blank
 
 XE
-When I gave my talk at the hackathon, there was a part of it that I left out. I'm not sure why I left it out, it just "felt right" at the time. That part I left out was inspired by this quote from SammyClassicSonicFan:
+When I gave my talk at the hackathon, there was a part of it that I cut out of my script as I was speaking. I'm not sure why I cut it out, it just "felt right" at the time. That part I left out was inspired by this quote from the philosopher SammyClassicSonicFan:
 
 SammyClassicSonicFan quote
 
 XE
 When will you **learn**? When will you learn that your **actions** have **consequences**?
 (Pause)
-I made Automuse precisely because I understand how impractical it is. The output quality of Automuse will simply never compare to the output quality of skilled human writers making original, high quality writing.
+I made Automuse precisely because I understand how impractical it is. The output quality of Automuse will simply never compare to the output quality of skilled human writers no matter what GPT model you use.
 (Pause)
-Sure, yes, there's a rather large market for low-quality pleasure reading that something like Automuse could fill. There's a rather large number of people that enjoy rather formulaic things about good winning out over evil, or romance novels that make people feel young again, or whatever. Not to mention, doing something like that would leave me an excellent moat because most AI companies try to focus on high quality output, meaning that lower quality stuff is laughed off as a waste of time.
+Sure, yes, I did my research, I know that there's a rather large market for low-quality pleasure reading that something like Automuse could fill. There's a surprisingly large number of people that enjoy reading formulaic things about good winning out over evil, or romance novels that make people feel young again, or whatever. Not to mention, doing something like that would leave me an excellent moat because most AI companies try to focus on high quality output, meaning that lower quality stuff is laughed off as a waste of time. I just don't know if I could live with myself if I made Automuse a product.
 
 Crutch
 
 XE
-When I made Automuse, I intentionally crippled it so that it would be difficult for anyone to use. Even me. I made it so that it requires a private dependency that I have access to but nobody else would. I made the tool in such a way that it requires massive human intervention in order to work. Whenever people ask me how to set it up for themselves, I quote absurd figures to them and they're always surprised and angry that a person making open source software would want to be paid for their time.
-
-Friends
-
-XE
-I don't want automuse to displace the effort of my friends.
-(Long pause)
+When I made Automuse, I intentionally crippled it so that it would be difficult for anyone to use. Even me. I made it so that it requires a private dependency that I have access to but nobody else would. I made the tool in such a way that it requires massive human intervention and filtering in order to work. Whenever people ask me how to set it up for themselves, I quote absurd figures to them and they're always surprised and angry that a person making open source software on the Internet would want to be paid for their time making their software work for them.
 
 Amazon Kindle
 
 XE
-Above all, the reason I haven't worked to productize it or make it available in mass consumption form is that I don't want my product to make the problem of book spam worse. The AI-generated book spam problem is bad enough that Amazon has had to institute uploading limits to the Kindle store for the first time ever. I don't think I could live with myself if something I made and released made the problem worse.
+Above all, the reason I haven't worked to productize it or make it available in mass consumption form is that I don't want my product to make the problem of book spam worse. The AI-generated book spam problem is bad enough that Amazon has had to institute uploading limits to the Kindle store for the first time ever. I don't think I could live with myself if something I made and released made that problem worse.
 
 Spellblade cover
 
 XE
-It's bad enough that whenever I get around to finishing my novel Spellblade, I'm almost certainly going to release it to my patrons and/or for very cheap on itch.io. I don't want something I make to be drowned out by the mountains of cheaply made books uploaded to Amazon on an hourly basis.
+It's bad enough that whenever I get around to finishing my novel Spellblade, I'm almost certainly going to release it to my patrons and/or for very cheap on itch.io. The Amazon Kindle store is undoubtedly the best place for me to release something like that. The Amazon store has the most access and the best user experience for people buying books, but I fear that my work of passion would be drowned out in a flood of AI generated noise.
 
 OpenAI logo
 
 XE
-I don't think that anyone at OpenAI anticipated that people would use ChatGPT to make algorithmic book spam worse. I have a friend that works there and generally I think OpenAI is actually approaching things from the right ideological stance...
+I don't think that anyone at OpenAI anticipated that people would use ChatGPT to make the book spam problem worse. I have a friend that works there and generally I think the research side of OpenAI is actually approaching things from the right ideological stance...
 
 Dollar signs
 
 XE
-Except when it comes to getting that sweet sweet return on investment from making the most powerful AI tools in the world available to the public by charging them for the output.
+Except when it comes to the capitalism side getting that sweet sweet return on investment from making the most powerful AI tools in the world available to the public by charging them for the output.
 
 A robot painting a flower.
 
 XE
-The part that really confuses me is why we're automating away art and writing before automating away actually harmful things. There's a really subtle part of this that makes me concerned for the future of our industry and I think we all need to be aware of it before it comes to bite us.
+Above all, the part that really confuses me is why we're automating away art and writing anything else. There's a really subtle part of this that makes me concerned for the future of our industry and I think we all need to be aware of it before it comes to bite us. Getting rid of everyone with aesthetic knowledge sounds like a very bad idea.
 
 A historical photo of an assembly line.
 
@@ -221,7 +222,7 @@ With the industrial revolution came the factories. Factories allowed us to produ
 People in a factory working next to machines.
 
 XE
-However, look again at this and you'll see another thing at play. These jobs that used to be done extensively by humans are now starting to be done by unfeeling automatons. With every new model year, there's more automation at play and less room for human jobs. Sure, we can make more cars, but every job that's done by a robot is a job that can't make a family thrive. It's another house that can't make rent. It's another way for the ownership class to scrape more off of the top.
+However, take a look at this modern assembly line for cars. Look at all the robot arms. There were jobs that used to be done extensively by humans that are now starting to be done by unfeeling automatons that never need to sleep. With every new model year, there's more automation at play and less room for human jobs. Sure, we can make more cars per hour, but every job that's done by a robot is a job that can't make a family thrive. It's another household that can't make rent. It's another way for the ownership class to scrape more off of the top.
 (Pause)
 With this in mind, I want you to consider this:
 (Snap fingers)
@@ -229,17 +230,17 @@ With this in mind, I want you to consider this:
 An open office with people working.
 
 XE
-In our modern world, how is this open office really that different from a factory in most cases? Instead of wool or wood as input, we have user stories, electricity, and coffee. Many of companies we work at are merely just assembly lines for code or kubernetes configurations. I think the ultimate dream of this lies in the idea of the T-shaped developer that I've seen many management people talk about:
+In our modern world, how is this open office really that different from a factory in most cases? Instead of wool or wood as input, we have user stories, electricity, and coffee. Many of the companies we work at are merely just assembly lines for code, features, or kubernetes configurations. I think the ultimate dream of this lies in the idea of the T-shaped developer that I've seen many management people talk about:
 
 The t-shaped developer.
 
 XE
-With a T-shaped developer, the basic idea is that you have core competency in one field, and enough broad knowledge in other fields that you can be put just about anywhere in the company and be productive. This is why you see things like ephemeral teams or decrees from on high that everything must be written in JavaScript from here on out. This makes it easier to move people around and place them wherever the company needs.
+With a T-shaped developer, the basic idea is that you have core competency in one field (such as frontend development), and enough broad knowledge in other fields that you can be put just about anywhere in the company and be productive. This is why you see things like ephemeral teams or decrees from on high that everything must be written in JavaScript from here on out. In theory, this makes it easier to move people around and place them wherever the company needs in order to make the process more adaptable.
 
 A boot.
 
 XE
-Not to mention, easier to get people off of the street and have them be competent at the job in days so that you don't have to spend the months requisite to train new people to do their job. Ever noticed that every job opportunity these days is for senior roles only? This is why. Usually by the time you convince companies to give you a senior title, you're already molded into a T-shaped developer and can slot in just about anywhere. 
+Not to mention, if everyone is a T-shaped developer, it's so much easier to get people off of the street and have them be competent at the job in days so that you don't have to spend the months required to train new people to do their job. Ever noticed that every job opportunity these days is for senior roles only? This is why. Usually by the time you convince companies to give you a senior title, you're already molded into a T-shaped developer and can slot in just about anywhere. 
 
 The open office again.
 
@@ -249,12 +250,12 @@ This is our assembly line, created in the fear that if we don't do this, the wro
 Clock emoji.
 
 XE
-That being said, I think that it's going to be a while until we can get to the point where AI tools can totally replace our jobs. Right now there isn't a magic button that product teams can use to "just implement the feature" instantly. I think it'll be a long ways off and probably requires us to find a better architecture than attention-window transformer models.
+That being said, I think that it's going to be a while until we can get to the point where AI tools can totally replace our jobs. Right now there isn't a magic button that product teams can use to "just implement the feature" instantly. I think it'll be a long ways off and probably require us to find a better architecture than attention-window transformer models.
 
 Blank
 
 XE
-However, there is a segment of people that can already be replaced by the magic "just implement it" button today.
+With that in mind, there is a segment of people that can already be replaced by the magic "just implement it" button today.
 
 "Artists"
 
@@ -264,33 +265,37 @@ Artists. Stable Diffusion, MidJourney, and Dall-E 3 have all gotten to the point
 Go back to that robot painting flowers picture.
 
 XE
-However, people can **tell** when you made an AI illustration. The stem on this flower is crooked in ways that flowers just don't work. The brush at the bottom of this image blends into the easel. The robot parts are melting a bit. The flower the robot is holding is also inconsistent, making it look like the flower is both forwards and backwards. It looks passable at first glance, but the moment you start looking at this critically it falls to pieces.
+However, artists can **tell** when you made an AI illustration. Just look at this one I used earlier in this talk. It's so bad. The stem on this flower is crooked in ways that flowers just don't work. The brush at the bottom of this image blends into the easel. The robot parts are melting a bit. The flower the robot is holding is also inconsistent, making it look like the flower is both forwards and backwards. It looks passable at first glance, but the moment you start looking at this critically it falls to pieces.
 (Pause)
 I guess the better question here is "why would you want to use an ai-generated image in something?"
 
 The picture of that one blogpost telling people to use cover images
 
 XE
-Because we've come to expect that blogposts need to have cover images, and there's more desire for people to have cheap filler art than there are artists willing to work for unrealistically low prices. Art is everywhere to the point that it's commoditized and the perceived value of it is next to zero while rent and food prices keep going up. So we end up with something like this:
+One of the big places you'd want to use an AI-generated image is for the cover image on your blogpost because we've come to expect that blogposts need to have cover images for some reason. There's more desire for people to have cheap filler art than there are artists willing to work for unrealistically low prices with incredibly quick turnaround times. Art is everywhere to the point that it's commoditized and the perceived value of it is next to zero while rent and food prices keep going up. So we end up with something like this:
 
 The art assembly line of robots painting flowers.
 
 XE
-You get an assembly line of robots painting flowers.
+You get an AI-generated assembly line of robots painting flowers.
 (Pause)
 This is why I didn't want to develop Automuse into a company. That action would have too many consequences that I don't want my friends and fellow artists to suffer. This is why I did so much detailed math about how much it would cost per word, how the quality would be seen in the market, and what impacts such a thing could have if it churned out hundreds of books per hour.
 
 The art of shitposting.
 
 XE
-When I made Automuse, I made it as a joke because of how terrible of an idea it would be. I know it can't write better than a human can. You know that it can't write better than a human can. I just wanted to put the parts together and see what the results looked like. It was a shitpost, pure and simple.
+When I made Automuse, I made it as a joke because of how terrible of an idea it would be. I know it can't write better than a human can. You know that it can't write better than a human can. I just wanted to put the parts together and see what the results looked like. It was a shitpost that I made in order to make a satirical science paper to mock how bad the GPT-4 technical report was, pure and simple.
 (Pause)
-And it won.
+
+You're Winner!
+
+XE
+And yet, it won.
 
 Surplus of cheap labor.
 
 XE
-One way to look at the rise of these AI tools is that it's a surplus of cheap labor. Cheap labor that allows for easily customizing the outputs. Cheap labor that gets back a result instantly. Cheap labor that can't get sick. Cheap labor that doesn't have kids and need to take months off for maternity leave. Cheap labor that can do the job good enough.
+One way to look at the rise of these AI tools is that it's a surplus of cheap knowledge labor. Cheap labor that allows for easily customizing the output in natural language. Cheap labor that gets back a result instantly. Cheap labor that can't get sick. Cheap labor that doesn't have kids and need to take months off for maternity leave. Cheap labor that can do the job good enough that few people can tell that you cheaped out.
 
 Boot emoji.
 
@@ -305,7 +310,7 @@ Outside of the systems we live in, yeah, AI stuff is great. It's fantastic tech 
 Uncanny sad angel.
 
 XE
-But inside these systems we live in, I can't help but see this as yet another way of human labor being displaced.
+But inside these systems we live in, I can't help but see this as yet another way of human labor being displaced without a good replacement.
 
 Engineering
 
@@ -328,11 +333,9 @@ Prepare for unforeseen consequences.
 The GReeTZ slide.
 
 XE
-Thank you all for watching this and I hope that it gives you some things to think about. I hope I didn't break too many taboos about our industry in the process, but who am I kidding, I probably broke a lot of them. Please thank everyone on this list for inspiring me to take action and pushing me towards the presentation I gave tonight. Special thanks to Mystes and Layl for really grinding hard into this, ripping it in half, and telling me when I'm full of shit. Extra special thanks to my husband for coming out here to record this for me.
+Thank you all for watching this and I hope that it gives you some things to think about. I hope I didn't break too many taboos about our industry in the process, but who am I kidding, I probably broke all of them. Thanks to everyone on this list for inspiring me to take action and pushing me towards the presentation I gave tonight. Special thanks to Mystes and Layl for really grinding hard into this, ripping it in half, and telling me when I'm full of shit. Extra special thanks to my husband for coming out here to record this for me.
 
 End slide.
 
 XE
-And thank you for watching! This was a pretty heavy talk. It may take you a while to surface questions about it. If you have them right now, ask away, but if it takes you time to come up with them, please email me at unforeseen consequences at xeserv dot us.
-(Pause)
-Does anyone have any questions?
+And thank you for watching! I recognize that this was a pretty heavy talk. It may take you a while to surface questions about it. If you have them right now, please feel free to ask away, but if it takes you time to come up with them, please email me at unforeseen consequences at xeserv dot us. Have a good evening and does anyone have any questions?
