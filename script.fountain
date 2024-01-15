@@ -24,6 +24,16 @@ I'm sorry to say that this talk is going to be a bit of a wet blanket, and I'm s
 (Ad-lib)
 This talk is really about actions and consequences.
 
+A disclaimer about not speaking for my employer.
+
+XE
+All the best things in life come with disclaimers. These words are my own. I am not speaking on behalf of my employer, past employers, or future employers should you be watching this on YouTube. I am speaking for myself and not other people.
+
+Spoiler warning.
+
+XE
+By the way, there's massive spoilers for the Half-Life series in this talk, please be aware if you haven't played these games that are probably older than the majority of this audience.
+
 The slide shows "About Xe" in rather large text.
 
 XE
@@ -54,17 +64,24 @@ Now, the question of if this practice of taking people's random internet content
 Things melt further.
 
 XE
-And mind you, I'm just one blogger. I'm just one person. I don't have *that big* of a platform. For the genre of technology bloggers, sure I have a big platform, but I'm not generally "front page news" big. I'm just a person who likes talking about how I made Nix work. I'm just a person who read one too many philosophical texts while high and then saw something I shouldn't have.
+And mind you, I'm just one blogger. I'm just one person. I don't have *that big* of a platform. For the genre of technology bloggers, sure I have a big platform, but I'm not generally "front page news" big. I'm just a person who likes talking about how I use computers and how I think they should work. I'm just a shitposter that gazed into the void too much and now the void gazes back at me.
 
-The slide goes blank.
+More melting
 
 XE
-Yes, before you ask, this is going to be *that* kind of talk. Buckle up.
+How do we understand this all? How do we figure out how to peel back the layers of terminology bullshit that prevent us from having a clear understanding of what people are even *saying*?
+(Pause)
+Let's start by taking the problems to a very abstract level and break things down from there.
 
 The slide shows "You fricking fricks, when will you learn that your ACTIONS have CONSEQUENCES?" in large text, attributed to SammyClassicSonicFan.
 
 XE
-If we take all of the drama and interplay involved in our society, we can boil it down to two basic things: actions and consequences. Actions are the things that we do, consequences are the things that result. You cut a tree down to make a fire. The animals that used that tree for shelter have a harder time finding shelter in the winter. You take an action, something or someone else has to deal with the consequences.
+If we take all of the drama and interplay involved in our society, we can boil it down to two basic things: actions and consequences. Actions are the things that we do, consequences are the things that result.
+
+A tree with a person cutting it down.
+
+XE
+You cut a tree down to make a fire. The animals that used that tree for shelter have a harder time finding shelter in the winter. You take an action, something or someone else has to deal with the consequences.
 
 The slide shows the word "actions" sheltered in a house away from the word "consequences".
 
@@ -76,173 +93,39 @@ The slide shows the letters "AI" in very large text.
 XE
 As exciting as all of this AI technology is, as a science fiction writer I can't help but see those same actions and consequences analyses for how we're using it today.
 
-The slide shows "Search engines" in very large text.
+The slide shows phoenix wright hold it
 
 XE
-The biggest thing I'm going to weave into the heart of this talk is what has happened to search engines over the years and how they have permanently broken the ways we generate and share information, and how AI tools are going to be used to make the state of things much, much worse. But to understand why things are the way they are. I want to start out by talking about the way they were.
+Now, now, put your pitchforks down. I see you out there with them. I'm not being a contrarian here or trying to decry AI technology as wrongthink. I have a bunch of projects either in progress or planned that hard-require large language models and other AI tools in order to make them work at all.
+(Pause)
+I'm mostly worried about how the existing powers that be are going to take this surplus of "cheap labor" and use those actions to have massive consequences on us all.
 
-The slide goes blank save a point of white light in the middle.
-
-XE
-In the beginning, the Internet was created. This has made a lot of people very angry, and has widely been regarded as a "bad move".
-
-The circle gets bigger.
+The G-Man
 
 XE
-Now this Internet was without form. It was one computer hastily hacked into another one over the phone system as a dare to see if it could be done.
+One of the things I want to get across here is that I'm not trying to go all "capitalism bad, bread lines for all" or something trite like that. I more want to inspire you to see what the consequences of your actions *could be*. This is made more complicated by the concept of *unforseen consequences*, or consequences that you couldn't possibly have seen coming when you were working on things.
 
-The circle gets bigger.
-
-XE
-And yet, it worked. The idea of the Internet seemed impossible to those people back then, but they wanted to see what could happen if computers were networked together.
-
-The circle gets bigger, it starts to reveal something, but you can't quite be sure what.
+A black swan.
 
 XE
-The early 90's comes along. I start existing. People were already connected via the telephone lines but there's some renegades under the surface connecting to a Bulletin-Board-System. They tie up their phone lines and make their machines emit demonic shrieks so that they can talk with eachother.
+For a long time, people thought that swans were only pure white. Swans were used as literary symbols of pureness. People had only ever seen white swans, so the idiom of a "black swan" came into common usage as an impossible event. Then people found black swans in nature. The term "black swan event" now describes an event that is obvious in hindsight, but something that we couldn't have possibly foreseen happening at the time.
 
-The AOL logo is visible.
-
-XE
-Then September comes and never leaves. The world is changed. Thousands of discussion forums are irreparably harmed by the results of it. A group of people in silicon valley wanted to connect the world together as an action, and the consequences are that USENET was destroyed by people posting unparseable drivel that violated the posting standards of the communities that thrived there.
-
-The white dot gets a little bigger.
+COVID-19
 
 XE
-But this Interent was still without form. There was a thousand thousand articles out there. Professors trying to share the discoveries of their research. Normal people trying to share what they learned to do in the kitchen. Poetry was written. Scholarly texts were digitized by hand painstakingly. The Internet was a thousand thousand passion projects of love, care, and soul. You could feel the personality dripping out of the corner of the cathode ray tubes as people made their medium fit their message.
-
-The white dot fills most of the slide.
-
-XE
-People made home pages. They maintained a chunk of the internet for themselves to put links to other websites they found interesting. Discoveries lead to FTP server connections to upload new links and maybe even break them into *categories*.
-
-The white dot fills a little more of the slide.
-
-XE
-This created a "web" of interconnected websites. The mere idea of clicking on something on one server and then ending up on another server as a result was *unheard of* before it suddenly became the natural reality of the masses. There was no pressure to grow. There was no central arbiter of truth. There was no one Internet. There were a thousand thousand Internets because nobody ended up seeing the same things as others that used the Internet.
-
-The white dot almost fills the whole slide.
-
-XE
-But this only really worked if you knew where what you were looking for was. You had to hunt pages down like a hunter-gatherer finding prey to feed their friends and family. Research was time-intensive and caused you to jump from list of links to list of links. Vetting sources was essential and widely practiced, sometimes entire days of research were spent looking down one corner and finding out the author was full of shit and not trustable.
-
-The white dot fills the slide.
-
-XE
-Then one day in 1998, the dreams of two people in a garage became a reality.
-
-The original Google page is shown on the screen.
-
-XE
-Google was launched, and the Internet changed forever. Wanted to find something? Just type in the terms into Google and find it. Millions of pages. At your fingertips. The impact of this is impossible to state because statistically, most of the people in this room literally cannot fathom a world without Google. I barely can and I'm the one speaking to you tonight.
-
-The slide shows a brain emoji with a magnifying glass emoji.
-
-XE
-And over the years, they got *really fucking good* at doing this. They managed to get the *exact* thing you were looking for front and center from the most reputable sources. You didn't even need to vet sources anymore, because only the most reputable sources became front and center in your Google search results. This has made "google" a verb for "to search" for some people. People thought that search engines were goddamn mind reading contraptions because they were *that good*. This got even better when they managed to bucketize searches per user so one person searching for "ruby" got the programming language but another got the mineral. It was glorious.
-
-The slide shows the G-Man.
-
-XE
-It was an action that changed the fate of human society. But,
-(Dramatic pause)
-there were unforeseen consequences.
-
-The slide shows a modern Google search with ads highlighted in red with a big arrow and a mind blown emoji.
-
-XE
-Google became the front page of the Internet. When people opened Netscape Navigator, they went right to Google to find anything and everything they wanted. It was the perfect place to put advertising, especially if the ads answered the questions that the users were using the search engine for in the first place.
-
-The slide shows the letters "SEO".
-
-XE
-Then came the rise of Search Engine Optimization. Google made the wise call to never release the source code for their search engine, especially the ranking bits, so people that realized that people only click on the first few links. So if they could get their links up to the top, they'd win all the customers and all of their competitors would die of no-customers-itis. The dark practices of Search Engine Optimization followed. They gamed the system. They made bank.
-
-The slide shows "Content farms" in large text.
-
-XE
-Nobody at Google though that them making a search engine in their garage would create the modern content farm, but those are the consequences we see now. These are powered by online advertising, a market that's conveniently cornered by Google, enabling the operators to mine passive income by making sure their website has answers to *everything*.
-
-The slide shows random content farm articles.
-
-XE
-I'm sure you've seen these useless listicles and other drivel clog up your search results. How do you know that recipe for chocolate chip cookies won't poison you when you eat them? How do you know if the information you're relying on has any basis in observable fact?
-(Dramatic pause, speak this next one intensely)
-How do you know if you're reading something actually authored by a human?
-
-The slide shows that ChatGPT logo again.
-
-XE
-In December 2022, ChatGPT was released to the masses. By two months from its release, they had a hundred million monthly users. Telegram took five years. LinkedIn took eight years. The World Wide Web took seven years. ChatGPT took two months.
-
-The slide shows the content farms again.
-
-XE
-You bet your ass people were using it for content farming as soon as they were physically capable. Instead of having poorly paid humans write your recipes about making chocolate chip cookies or foolish things like making soap with radishes, you can pay an AI model next to nothing to generate an endless amount of content-free slop. The only limit is how fast you could copy and paste the slop into your CMS.
-
-The slide shows the SEO heist tweet.
-
-XE
-And now that is all automated thanks to the ChatGPT API. Misinformation as a service for a dollar per million tokens of output. Of course, OpenAI claims to have teams of experts identifying and removing fraudulent uses of OpenAI for obvious terms and conditions abuses, but I am beginning to wonder if post-hoc action after the fact is really living up to the spirit of those bans. They can just get new credit cards and start over. They can find OpenAI API keys in iPhone or Android apps. They can scrape API keys off of GitHub because the UX of cryptography tools is harder than it is to not use them.
-
-The slide shows "Research preview" in large text.
-
-XE
-(Frantically)
-But it's all good because ChatGPT is just a research preview right? Be sure to fact-check the output of the model, right? You're going to make sure things are correct before you release them, right?
-
-Show that one LinkedIn post.
-
-XE
-(Laugh)
-No, people won't. They'll just copy and paste it into LinkedIn, "regenerate response" and all. They'll just copy it into their cover letters, their emails, their blog drafts, their professional communications, their slack messages, and their code editors.
-
-The slide shows a TikTok logo.
-
-XE
-And even their video scripts.
-
-Magic created by song.
-
-XE
-So these infinite hallucination machines are now being put into every product to chase investor dollars. Your e-bike isn't safe. Your keyboard isn't safe. Your TV isn't safe. The machine god will be everywhere, all-seeing through the telemetry probes that you can say "full" or "limited" to, not "yes" or "no" like some kind of Luciferian bargain of fates with Silicon Valley models of consent. Your smart TV boxes will come with malware out of the box for free. Your Windows PC will never work without a Microsoft account. Everything keeps encroaching and making you more fauxnected instead of actually connecting you with real humans. That's what you wanted to do in the first place, right? That's why you're on LinkedIn. That's why you're here tonight. When will this madness end?
-
-Cadey+coffee
-
-XE
-I hope I haven't lost you by now, I realize that a lot of the crux of my argument here is that AI tools are either widely being misused or are very easy to widely misuse. If you're excited about AI, it's going to be easy to reject everything I say tonight because you're instinctively tuned towards doing so. I won't take it personally.
+Just like that unmentionable-on-YouTube viral pandemic that happened a few years ago that our society will never really recover from! People were warning us for years that we'd be totally screwed by a pandemic but noooo public health had to get cut!
 
 The slide goes blank.
 
 XE
-As a tool, AI has a huge potential to be used to make humanity better. I fucked up my hands recently and I use AI models to help me write things on days that I have wrist and hand pain. I use copilot to help me write boilerplate code that I don't want to have to write again and again.
+Before we get into all of that sad stuff though, I want to reiterate one of my core points: As a tool, AI has a huge potential to be used to make humanity better. I fucked up my hands recently and I use two to three AI models to help me write things on days that I have wrist and hand pain. I use copilot to help me write boilerplate code that I don't want to have to write again and again. I use AI in ways that augment my abilities, not in ways that could serve to replace me with an unfeeling automaton.
 
 The slide shows a ChatGPT session to generate code.
 
 XE
 Code generation is actually one of the best ways to use AI tools right now as a developer. Any good code is really the specification turned into something the computer can understand, so being able to write out the specification in plain human language and then having the machine fill in the gaps is a huge timesaver. Not to mention, code like this is super easy to statically validate. It either does what you want or it doesn't. This helps people avoid the "terror of the empty canvas" in ways that are difficult to state. As someone that wants to help create more senior programmers, this is an amazing tool to give to people.
 
-G-Man comes back.
+Shrugging anime girl
 
 XE
-At the same time, there will be unforeseen consequences. Sure this code is easy to validate and the net results mean more human hours are spent doing productive things instead of writing the boilerplate needed to parse JSON in HTTP request bodies, but what happens when this is applied to things that aren't so easy to statically validate like the truth of statements?
-
-Tom Scott.
-
-XE
-There's a great lecture called There Is No Algorithm for Truth by Tom Scott. If you weren't already watching me talk about AI ethics, I'd say you should watch it as soon as possible. I'll give a link to it on my blog after this talk is done.  If the "AI" we have is infinite lie generators that sometimes tell the truth, how do we know if the output of a model is true before we present it to the user? What are the consequences of the model telling someone false information? Does it really matter if the user is going to be okay with "false" information being presented as "truth" because it answers their question well enough?
-
-The words "Objective reality".
-
-XE
-I've been talking in various places and I see people pull out a phrase that I don't know if they fully understand the impact of. They call reality "objective", as if reality is some deterministic automata that can result in the same assertions about base fact becoming axiomatic truths. I don't really think that we as a species have a way to fully call reality "objective" yet.
-
-I can't believe reality is subjective.
-
-XE
-I think it may be better to call this "observable" reality because reality is fundamentally subjective in more ways than you are probably comfortable with learning tonight. At the very least, we can observe patterns in it.
-
-"'Dead Internet' theory"
-
-XE
-When you add all this up, it's easy to start looking at 
+Of course, I don't know what the downstream consequences of this will be. Giving people "cheat codes" to get to their results faster without knowing the fundamentals at play is probably not the best idea in the world in order to maintain a healthy skill balance in the workforce, but you gotta start somewhere.
