@@ -198,37 +198,141 @@ Spellblade cover
 XE
 It's bad enough that whenever I get around to finishing my novel Spellblade, I'm almost certainly going to release it to my patrons and/or for very cheap on itch.io. I don't want something I make to be drowned out by the mountains of cheaply made books uploaded to Amazon on an hourly basis.
 
+OpenAI logo
+
+XE
+I don't think that anyone at OpenAI anticipated that people would use ChatGPT to make algorithmic book spam worse. I have a friend that works there and generally I think OpenAI is actually approaching things from the right ideological stance...
+
+Dollar signs
+
+XE
+Except when it comes to getting that sweet sweet return on investment from making the most powerful AI tools in the world available to the public by charging them for the output.
+
+A robot painting a flower.
+
+XE
+The part that really confuses me is why we're automating away art and writing before automating away actually harmful things. There's a really subtle part of this that makes me concerned for the future of our industry and I think we all need to be aware of it before it comes to bite us.
+
+A historical photo of an assembly line.
+
+XE
+With the industrial revolution came the factories. Factories allowed us to produce objects on scales that we had never dreamed of before. Raw materials and people go in on one end, finished products come out on the other end. This has allowed us to become the kind of species we are today. In less than 100 hours, you can circumnavigate the globe. You can head to an entirely different continent in 12 hours. This has also lead to discoveries that have made us healthier, live longer, and overall been a boon for the human race in aggregate.
+
+People in a factory working next to machines.
+
+XE
+However, look again at this and you'll see another thing at play. These jobs that used to be done extensively by humans are now starting to be done by unfeeling automatons. With every new model year, there's more automation at play and less room for human jobs. Sure, we can make more cars, but every job that's done by a robot is a job that can't make a family thrive. It's another house that can't make rent. It's another way for the ownership class to scrape more off of the top.
+(Pause)
+With this in mind, I want you to consider this:
+(Snap fingers)
+
+An open office with people working.
+
+XE
+In our modern world, how is this open office really that different from a factory in most cases? Instead of wool or wood as input, we have user stories, electricity, and coffee. Many of companies we work at are merely just assembly lines for code or kubernetes configurations. I think the ultimate dream of this lies in the idea of the T-shaped developer that I've seen many management people talk about:
+
+The t-shaped developer.
+
+XE
+With a T-shaped developer, the basic idea is that you have core competency in one field, and enough broad knowledge in other fields that you can be put just about anywhere in the company and be productive. This is why you see things like ephemeral teams or decrees from on high that everything must be written in JavaScript from here on out. This makes it easier to move people around and place them wherever the company needs.
+
+A boot.
+
+XE
+Not to mention, easier to get people off of the street and have them be competent at the job in days so that you don't have to spend the months requisite to train new people to do their job. Ever noticed that every job opportunity these days is for senior roles only? This is why. Usually by the time you convince companies to give you a senior title, you're already molded into a T-shaped developer and can slot in just about anywhere. 
+
+The open office again.
+
+XE
+This is our assembly line, created in the fear that if we don't do this, the wrong line will trend the wrong way and then investors won't give out money as freely.
+
+Clock emoji.
+
+XE
+That being said, I think that it's going to be a while until we can get to the point where AI tools can totally replace our jobs. Right now there isn't a magic button that product teams can use to "just implement the feature" instantly. I think it'll be a long ways off and probably requires us to find a better architecture than attention-window transformer models.
+
+Blank
+
+XE
+However, there is a segment of people that can already be replaced by the magic "just implement it" button today.
+
+"Artists"
+
+XE
+Artists. Stable Diffusion, MidJourney, and Dall-E 3 have all gotten to the point that the output is good enough to publish as-is. For the vast majority of people, as long as there's nothing wrong with the hands, they won't be able to tell that an image is AI-generated.
+
+Go back to that robot painting flowers picture.
+
+XE
+However, people can **tell** when you made an AI illustration. The stem on this flower is crooked in ways that flowers just don't work. The brush at the bottom of this image blends into the easel. The robot parts are melting a bit. The flower the robot is holding is also inconsistent, making it look like the flower is both forwards and backwards. It looks passable at first glance, but the moment you start looking at this critically it falls to pieces.
+(Pause)
+I guess the better question here is "why would you want to use an ai-generated image in something?"
+
+The picture of that one blogpost telling people to use cover images
+
+XE
+Because we've come to expect that blogposts need to have cover images, and there's more desire for people to have cheap filler art than there are artists willing to work for unrealistically low prices. Art is everywhere to the point that it's commoditized and the perceived value of it is next to zero while rent and food prices keep going up. So we end up with something like this:
+
+The art assembly line of robots painting flowers.
+
+XE
+You get an assembly line of robots painting flowers.
+(Pause)
+This is why I didn't want to develop Automuse into a company. That action would have too many consequences that I don't want my friends and fellow artists to suffer. This is why I did so much detailed math about how much it would cost per word, how the quality would be seen in the market, and what impacts such a thing could have if it churned out hundreds of books per hour.
+
+The art of shitposting.
+
+XE
+When I made Automuse, I made it as a joke because of how terrible of an idea it would be. I know it can't write better than a human can. You know that it can't write better than a human can. I just wanted to put the parts together and see what the results looked like. It was a shitpost, pure and simple.
+(Pause)
+And it won.
+
+Surplus of cheap labor.
+
+XE
+One way to look at the rise of these AI tools is that it's a surplus of cheap labor. Cheap labor that allows for easily customizing the outputs. Cheap labor that gets back a result instantly. Cheap labor that can't get sick. Cheap labor that doesn't have kids and need to take months off for maternity leave. Cheap labor that can do the job good enough.
+
+Boot emoji.
+
+XE
+Cheap labor that is able to displace human labor in an economy built around unsustainable infinite growth.
+
+Happy angel emoji
+
+XE
+Outside of the systems we live in, yeah, AI stuff is great. It's fantastic tech that allows us to do any number of things that we couldn't do before.
+
+Uncanny sad angel.
+
+XE
+But inside these systems we live in, I can't help but see this as yet another way of human labor being displaced.
+
+Engineering
+
+XE
+And yet we wonder why people in our industry can't call ourselves "engineers" in Ontario. Do we really engineer anything or are we just tools of the capitalism line to make the capitalism line go up?
+
+SammyClassicSonicFan quote
+
+XE
+When will we **LEARN** that our **ACTIONS** have **CONSEQUENCES**?
+(Long pause)
+
 The G-Man.
 
 XE
-I'm sure that nearly all of those consequences would not hurt me individually. I have a fairly healthy fanbase and make enough money on Patreon to make most of my side hobbies pay for themselves. I'm remarkably lucky and privileged to have the positions that I do. I'm just afraid of the unforeseen consequences of releasing something like Automuse into the world. I don't want to have things that I make force people out of their line of work. Changing careers is impossible for someone who lives paycheck to paycheck.
+Until then,
+(Uncanny, pause inhumanly)
+Prepare for unforeseen consequences.
 
-YouTube logo
-
-XE
-Speaking of paycheck to paycheck, I don't know if y'all know how bad it is getting there, but it's getting really bad thanks to the fallout of their recommendation algorithm.
-
-YouTube front page
+The GReeTZ slide.
 
 XE
-When you open the front page of YouTube, you see a page like this. This page is full of videos that their recommendation algorithm suggests you may be interested in. As a user, this is a powerful curation tool that allows you to engage with the stuff that you would be interested in without having to dig through millions of hours of junk.
+Thank you all for watching this and I hope that it gives you some things to think about. I hope I didn't break too many taboos about our industry in the process, but who am I kidding, I probably broke a lot of them. Please thank everyone on this list for inspiring me to take action and pushing me towards the presentation I gave tonight. Special thanks to Mystes and Layl for really grinding hard into this, ripping it in half, and telling me when I'm full of shit. Extra special thanks to my husband for coming out here to record this for me.
 
-Nightmare
-
-XE
-As a creator, this is a nightmare that is conditionally reinforcing them to keep creating and defecating out miles of drivel in order to stay relevant. Why do you think SSSniperWolf and other reaction content is so prevalent? The algorithm eats it up and when the algorithm eats something up, you get to make rent. Of course reaction content is going to be everywhere.
-
-G-Man
+End slide.
 
 XE
-One of the biggest unforeseen consequences of recommendation algorithms are observable effects like them directly enabling violence and radicalization.
-
-Engagement
-
-XE
-These algorithms optimize for engagement. Engagement is when a user interacts with a thing. It could be watching the video all the way through. It could be watching the video at all. It could be dwelling your scrollbar in the same area as the video and hovering over it. It could be any action a user takes with a thing that could count as the user "engaging" with that thing.
-
-Enragement
-
-XE
-You know what really gets people to engage with something? Pissing them off. Enragement is engagement. "Cringe compilations" lead to any number of intermediate steps and then radicalization follows. Ever noticed a particular political or existential bias 
+And thank you for watching! This was a pretty heavy talk. It may take you a while to surface questions about it. If you have them right now, ask away, but if it takes you time to come up with them, please email me at unforeseen consequences at xeserv dot us.
+(Pause)
+Does anyone have any questions?
